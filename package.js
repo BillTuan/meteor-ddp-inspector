@@ -19,7 +19,7 @@ Package.onUse(function (api) {
     'tracker',
     'templating',
     'session',
-    'u2622:persistent-session@0.4.4',
+    'cultofcoders:persistent-session@0.4.5',
     'underscore',
     'mousetrap:mousetrap@1.4.6_1',
     'jquery',
