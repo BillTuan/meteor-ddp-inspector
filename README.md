@@ -5,7 +5,7 @@ This is a __client-side__ DDP inspector that will capture all DDP activity. You'
 ## Installation
 
 ```
-meteor add lai:ddp-inspector
+meteor add baotuan:ddp-inspector
 ```
 
 ## Usage
